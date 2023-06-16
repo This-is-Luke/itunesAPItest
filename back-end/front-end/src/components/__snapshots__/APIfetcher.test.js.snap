@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-hfDuwB bixnBK"
+  >
+    <div
+      class="sc-jCIOXC gpkBNj"
+    >
+      <h2>
+        Favorites
+      </h2>
+      <ul />
+    </div>
+    <div
+      class="sc-fBEEOr bkJorj"
+    >
+      <h2>
+        Search
+      </h2>
+      <form
+        class="sc-bXxmBy bUHxga"
+      >
+        <label
+          class="sc-jlOLRj kwHVAS"
+        >
+          Search Term:
+          <input
+            class="sc-dMnqAs jYbCnp"
+            type="text"
+            value=""
+          />
+        </label>
+        <select
+          class="sc-laEPQd bAICmk"
+          id="media-type"
+        >
+          <option
+            value="all"
+          >
+            All
+          </option>
+          <option
+            value="movie"
+          >
+            Movie
+          </option>
+          <option
+            value="podcast"
+          >
+            Podcast
+          </option>
+          <option
+            value="music"
+          >
+            Music
+          </option>
+          <option
+            value="audiobook"
+          >
+            Audiobook
+          </option>
+          <option
+            value="shortFilm"
+          >
+            Short Film
+          </option>
+          <option
+            value="tvShow"
+          >
+            TV Show
+          </option>
+          <option
+            value="software"
+          >
+            Software
+          </option>
+          <option
+            value="ebook"
+          >
+            eBook
+          </option>
+           
+        </select>
+        <button
+          class="sc-eErDDp eFqmcS"
+          type="submit"
+        >
+          Search
+        </button>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
